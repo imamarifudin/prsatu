@@ -3,6 +3,6 @@
 	<h2>Penggunaan Terhadap Peta</h2>
 	<br><br>
 	<div class="row justify-content-md-center">
-		<img src="<?= templates('production/images/bantuan.png') ?>">
+		<img src="<?= templates('') ?>">
 	</div>
 </div>
