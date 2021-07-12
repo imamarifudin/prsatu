@@ -1,0 +1,24 @@
+/*
+ * Custom CSS for map
+ */
+#mapid {
+  width: 100%;
+  height: 90vh;
+  z-index: 0;
+}
+#cancel-polyline {
+  background-color: red;
+  color: white;
+}
+#finish-polyline {
+  background-color: #0c0;
+  color: white;
+}
+.help-layer {
+  cursor: crosshair; /* default map cursor type */
+}
+.first-point {
+  background-color: #fff;
+  border: 1px solid #999;
+  border-radius: 50px;
+}
